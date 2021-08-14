@@ -1,6 +1,6 @@
 ### Hi there, I'm **Kukjun!** 👋
 
-Hello, I'm senior in college. I am using GitHub to organize what I have studied. Comments are always welcome.
+Hello, I'm student in college. I am using GitHub to organize what I have studied. Comments are always welcome.
 
 <!--
 **kukjun/kukjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
