@@ -30,14 +30,16 @@ Notion에서 정리했습니다!
 자세한 코드는 GitHub Repository에 업로드 하고 있습니다.
 
 ## TIL
-
 * Java : https://github.com/kukjun/java
 * DesignPattern : https://github.com/kukjun/designPattern
+* Algorithm : https://github.com/kukjun/algorithm
 
 ## ToyProject
-
 * Java : https://github.com/kukjun/toyProject-java
 * Python : https://github.com/kukjun/toyProject-python
+
+## Algorithm
+
 
 <!--
 **kukjun/kukjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
