@@ -32,13 +32,12 @@ Notion에서 정리했습니다!
 ## TIL
 * Java : https://github.com/kukjun/java
 * DesignPattern : https://github.com/kukjun/designPattern
+* PostgreSQL : https://github.com/kukjun/PostgreSQL
 * Algorithm : https://github.com/kukjun/algorithm
 
 ## ToyProject
 * Java : https://github.com/kukjun/toyProject-java
 * Python : https://github.com/kukjun/toyProject-python
-
-## Algorithm
 
 
 <!--
