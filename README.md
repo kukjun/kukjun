@@ -8,6 +8,8 @@ Github 레파지토리를 잘못만들고, 그 상태로 너무 오래 사용해
 
 [![Kukjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukjun)](https://github.com/anuraghazra/github-readme-stats)
 
+<br><br>
+
 # Introduce
 
 Notion에서 정리했습니다!
@@ -15,19 +17,23 @@ Notion에서 정리했습니다!
 * https://kukjun.notion.site/Kevin-9e6237a9167e4d80bd1841844b163b45
 
 * 🌱 Learning
-  * DesignPattern
-  * Spring Tutorial
-  * Operating System
+  * Graduation Project
+  * Spring
+  * Algorithm
 
-
+<br><br>
 
 # Repository
 
 이론은 Repository에서 다루지 않습니다. VersionNote를 통해서 다루고 있습니다.
 
 * Version Note : https://kukjun.notion.site/Version-Note-0bc06ec1e1b849c49051f839c24531bf
-
 자세한 코드는 GitHub Repository에 업로드 하고 있습니다.
+
+* Blog : https://velog.io/@imkkuk
+특별했던 경험이나 사례들을 요약해서 블로그에 정리하고 있습니다.
+
+<br>
 
 ## TIL
 * Java : https://github.com/kukjun/java
@@ -35,9 +41,17 @@ Notion에서 정리했습니다!
 * PostgreSQL : https://github.com/kukjun/PostgreSQL
 * Algorithm : https://github.com/kukjun/algorithm
 
+<br>
+
 ## ToyProject
 * Java : https://github.com/kukjun/toyProject-java
 * Python : https://github.com/kukjun/toyProject-python
+
+<br>
+
+## Gradutation Project
+* MyToday - Stop ...
+* BetaTest Platform - In Progress
 
 
 <!--
