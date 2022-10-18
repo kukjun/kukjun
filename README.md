@@ -1,20 +1,17 @@
 
 
-## Hi there, I'm **Kukjun(Kevin)!** 👋
+## Hi there, I'm **Gukjun Lee!** 👋
 
 Hello, I'm student in college. I am using GitHub to organize what I have studied. Comments are always welcome.
 
-Github 레파지토리를 잘못만들고, 그 상태로 너무 오래 사용해 이번에 레파지토리를 새로 만들고 수정했습니다! 이곳에 분할해서 정리하도록 하겠습니다.
+
 
 [![Kukjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukjun)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
 # Introduce
-
-Notion에서 정리했습니다!
-
-* https://kukjun.notion.site/Kevin-9e6237a9167e4d80bd1841844b163b45
+**🔭🧐 꾸준함이 몰입을 만들고, 몰입은 나를 성장시키는 것 같습니다. :) 다들 화이팅**
 
 * 🌱 Learning
   * Graduation Project
@@ -25,33 +22,23 @@ Notion에서 정리했습니다!
 
 # Repository
 
-이론은 Repository에서 다루지 않습니다. VersionNote를 통해서 다루고 있습니다.
+이론은 Repository에서 다루지 않습니다.
 
-* Version Note : https://kukjun.notion.site/Version-Note-0bc06ec1e1b849c49051f839c24531bf
-자세한 코드는 GitHub Repository에 업로드 하고 있습니다.
+#### [TroubleShooting](https://kukjun.notion.site/Version-Note-0bc06ec1e1b849c49051f839c24531bf)
+당장 해결하지 못하는 내용은 TroubleShooting에 적고 시간이 날때 
 
-* Blog : https://velog.io/@imkkuk
-특별했던 경험이나 사례들을 요약해서 블로그에 정리하고 있습니다.
+#### [Blog](https://velog.io/@imkkuk)
+주간 일지와 특별한 경험들을 모아서 블로그를 작성하고 있습니다.
 
-<br>
+<br><br>
 
-## TIL
-* Java : https://github.com/kukjun/java
-* DesignPattern : https://github.com/kukjun/designPattern
-* PostgreSQL : https://github.com/kukjun/PostgreSQL
-* Algorithm : https://github.com/kukjun/algorithm
-
-<br>
-
-## ToyProject
-* Java : https://github.com/kukjun/toyProject-java
-* Python : https://github.com/kukjun/toyProject-python
 
 <br>
 
 ## Gradutation Project
 * MyToday - Stop ...
-* BetaTest Platform - In Progress
+* [TestMatchingPlatform](https://kukjun.notion.site/Test-Matching-Platform-03c928a96ebc4a50a8ef62158a73f3ae) - In Progress
+
 
 
 <!--
