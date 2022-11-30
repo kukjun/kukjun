@@ -25,7 +25,9 @@ Hello, I'm student in college. I am using GitHub to organize what I have studied
 이론은 Repository에서 다루지 않습니다.
 
 #### [TroubleShooting](https://kukjun.notion.site/Version-Note-0bc06ec1e1b849c49051f839c24531bf)
-당장 해결하지 못하는 내용은 TroubleShooting에 적고 시간이 날때 
+당장 해결하지 못하는 내용은 TroubleShooting에 적고 시간이 날때 해결하고자 합니다!
+
+<br>
 
 #### [Blog](https://velog.io/@imkkuk)
 주간 일지와 특별한 경험들을 모아서 블로그를 작성하고 있습니다.
