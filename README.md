@@ -24,7 +24,12 @@ Hello, I'm student in college. I am using GitHub to organize what I have studied
 
 이론은 Repository에서 다루지 않습니다.
 
-#### [TroubleShooting](https://kukjun.notion.site/Version-Note-0bc06ec1e1b849c49051f839c24531bf)
+#### [Tech Stack](https://kukjun.notion.site/Version-Note-0bc06ec1e1b849c49051f839c24531bf)
+이론적인 내용을 Notion을 통해서 정리했습니다. :)
+
+<br>
+
+#### [Trouble Shooting](https://kukjun.notion.site/Trouble-Shooting-91327e51ff06490cb78d72ef7a157586)
 당장 해결하지 못하는 내용은 TroubleShooting에 적고 시간이 날때 해결하고자 합니다!
 
 <br>
