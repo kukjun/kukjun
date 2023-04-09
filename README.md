@@ -2,7 +2,7 @@
 
 ## Hi there, I'm **Kukjun Lee!** 👋
 
-Hello, I'm student in college. I am using GitHub to organize what I have studied. Comments are always welcome.
+Hello. 😃 Comments are always welcome.
 
 
 
