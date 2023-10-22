@@ -44,8 +44,10 @@ Hello. 😃 Comments are always welcome.
 
 ## Gradutation Project
 * MyToday - Stop ...
-* [TestMatchingPlatform](https://kukjun.notion.site/Test-Matching-Platform-03c928a96ebc4a50a8ef62158a73f3ae) - In Progress
+* [TestMatchingPlatform](https://kukjun.notion.site/Test-Matching-Platform-03c928a96ebc4a50a8ef62158a73f3ae) - Finish
 
+
+## 우아한 테크 코스 - pre cource - In Progress
 
 
 <!--
