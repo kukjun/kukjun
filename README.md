@@ -18,8 +18,8 @@
 <br>
 
 * 🌱 Learning
-  * github pages를 이용한 블로그 만들기
   * Kotlin 문법 공부
+  * Dobiz Study 진행중
 
 <br>
 <br>
@@ -35,15 +35,14 @@
 #### [Blog](https://velog.io/@imkkuk)
 주간 일지와 특별한 경험들을 모아서 블로그를 작성하고 있습니다.
 
-#### [Github Blog]()
-깃헙으로 블로그를 이전하는 과정을 진행하고 있습니다.
-
 <br>
 <br>
 
 # Project
 
-우아한 테크 코스 - pre cource - In Progress
+우아한 테크 코스(pre cource)
+[Wasabi](https://github.com/Wisoft-Wasabi)
+오늘의명언(Dobiz)
 
 
 <!--
