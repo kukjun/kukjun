@@ -12,7 +12,7 @@
 
 # Introduce
 
-* 🔭 Working
+* 🔭 Working
   * Dodlab 1년차 ~
 
 <br>
