@@ -13,24 +13,20 @@
 # Introduce
 
 * 🔭 Working
-  * Dodlab 1년차 ~
+  * 구직중 ... 😃
 
 <br>
 
 * 🌱 Learning
-  * Kotlin 문법 공부
-  * Dobiz Study 진행중
+  * FreeDobyz Side Project 진행중 (Kotlin + Spring)
+     * refactoring 한 Nestjs CleanCode Project 진행중 (Typescript + Nestjs)]
+  * Wagora Side Project 진행중 (Typescript + Nestjs)
 
 <br>
 <br>
 <br>
 
 # My Story
-
-#### [Trouble Shooting](https://kukjun.notion.site/Trouble-Shooting-91327e51ff06490cb78d72ef7a157586)
-당장 해결하지 못하는 내용은 TroubleShooting에 적고 시간이 날때 해결하고자 합니다!
-
-<br>
 
 #### [Blog](https://velog.io/@imkkuk)
 주간 일지와 특별한 경험들을 모아서 블로그를 작성하고 있습니다.
@@ -40,11 +36,19 @@
 
 # Project
 
-우아한 테크 코스(pre cource)
+### Team FreeDobyz
+ [Things(오늘의 명언)](https://github.com/wisoft-graduate/quotation-api-server)
+ 
+ [Wagora(Wisoft Chatting Platform](https://github.com/wagora-chat/wagora-chat-backend)
 
-[Wasabi](https://github.com/Wisoft-Wasabi)
+<br>
+<br>
 
-오늘의명언(Dobiz)
+### ToyProject
+[Things(오늘의 명언) CleanCode](https://github.com/kukjun/quotation-backend)
+
+* 헥사고날 아키텍처를 Nestjs로 구현해보기
+
 
 
 <!--
