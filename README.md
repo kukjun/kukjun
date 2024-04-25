@@ -36,7 +36,7 @@
 
 # Project
 
-### Team FreeDobyz
+### Team Project
  [Things(오늘의 명언)](https://github.com/wisoft-graduate/quotation-api-server)
  
  [Wagora(Wisoft Chatting Platform](https://github.com/wagora-chat/wagora-chat-backend)
