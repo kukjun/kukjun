@@ -1,53 +1,65 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20there%20I'm%20kukjun&fontColor=00bfff&animation=twinkling&descSize=20&desc=Wellcom%20to%20kukjun%20repository)
+
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/nest.js-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E" />&nbsp
+ <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />&nbsp
+ <br>
+ <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
+ <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />&nbsp
+ <br>
+ <img src="https://img.shields.io/badge/postgresql-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp
+ <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />&nbsp
+</div>
 
 
-## Hi there, I'm **Kukjun Lee!** 👋
 
-<br>
-<br>
+## My Story
 
-[![Kukjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukjun)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-<br>
-
-# Introduce
-
-* 🔭 Working
-  * 구직중 ... 😃
-
-<br>
-
-* 🌱 Learning
-  * FreeDobyz Side Project 진행중 (Kotlin + Spring)
-     * refactoring 한 Nestjs CleanCode Project 진행중 (Typescript + Nestjs)]
-  * Wagora Side Project 진행중 (Typescript + Nestjs)
-
-<br>
-<br>
-<br>
-
-# My Story
-
-#### [Blog](https://velog.io/@imkkuk)
 주간 일지와 특별한 경험들을 모아서 블로그를 작성하고 있습니다.
+
+<div align="center" style="text-align:center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=imkkuk)](https://github.com/eungyeole/velog-readme-stats)
+  
+</div>
 
 <br>
 <br>
 
 # Project
 
+### Toy Project
+[TeamsReserve_MVP](https://github.com/kukjun/TeamsReserve_MVP_Backend) - Complate(Refactoring)
+
+* Nestjs, Typescript Project
+* 팀별로 공간을 생성하고 예약할 수 있는 서비스를 구상했는데, 해당 서비스의 MVP로 Backend를 구현했습니다.
+* 버그, 추가 적용 사항에 대한 Refactoring을 진행하고 있습니다.
+
+
 ### Team Project
- [Things(오늘의 명언)](https://github.com/wisoft-graduate/quotation-api-server)
- 
- [Wagora(Wisoft Chatting Platform](https://github.com/wagora-chat/wagora-chat-backend)
+[Things(오늘의 명언)](https://github.com/wisoft-graduate/quotation-api-server) - Progress
+
+* Spring, Kotlin Project
+* 세상의 여러 명언들을 보여주고, 공유, 좋아요, 북마크 등을 할 수 있는 서비스입니다.
+
+[Wagora(Wisoft Chatting Platform](https://github.com/wagora-chat/wagora-chat-backend) - Progress
+
+* Nestjs, Typescript Project
+* 회원가입 한 사람들끼리 채팅방을 통해 채팅을 주고받을 수 있는 서비스입니다. 대학교 동아리인 Wisoft 인원들이 이용할 수 있는 채팅 서비스를 구현하는 것이 목표입니다.
 
 <br>
 <br>
 
-### ToyProject
-[Things(오늘의 명언) CleanCode](https://github.com/kukjun/quotation-backend)
+<div align="center">
 
-* 헥사고날 아키텍처를 Nestjs로 구현해보기
+[![Kukjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukjun)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kukjun&layout=compact)
+
+</div>
 
 
 
