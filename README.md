@@ -16,7 +16,7 @@
 
 ## My Story
 
-주간 일지와 특별한 경험들을 모아서 블로그를 작성하고 있습니다.
+주간 일지와 특별한 경험들을 모아서 [블로그](https://velog.io/@imkkuk/posts)를 작성하고 있습니다.
 
 <div align="center" style="text-align:center">
   
