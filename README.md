@@ -45,25 +45,6 @@
 <br>
 <br>
 
-### Team Project
-
-<br>
-
-[Things(오늘의 명언)](https://github.com/wisoft-graduate/quotation-api-server) - Progress
-
-* Spring, Kotlin Project
-* 세상의 여러 명언들을 보여주고, 공유, 좋아요, 북마크 등을 할 수 있는 서비스입니다.
-
-<br>
-
-[Wagora(Wisoft Chatting Platform](https://github.com/wagora-chat/wagora-chat-backend) - Progress
-
-* Nestjs, Typescript Project
-* 회원가입 한 사람들끼리 채팅방을 통해 채팅을 주고받을 수 있는 서비스입니다. 대학교 동아리인 Wisoft 인원들이 이용할 수 있는 채팅 서비스를 구현하는 것이 목표입니다.
-
-<br>
-<br>
-
 <div align="center">
 
 [![Kukjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukjun)](https://github.com/anuraghazra/github-readme-stats)
