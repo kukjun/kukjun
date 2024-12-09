@@ -35,15 +35,32 @@
 
 <br>
 
-[TeamsReserve_MVP](https://github.com/kukjun/TeamsReserve_MVP_Backend) - Complate(Refactoring)
+[TeamsReserve_MVP](https://github.com/kukjun/TeamsReserve_MVP_Backend) - Complate
 
 * Nestjs, Typescript Project
 * 팀별로 공간을 생성하고 예약할 수 있는 서비스를 구상했는데, 해당 서비스의 MVP로 Backend를 구현했습니다.
-* 버그, 추가 적용 사항에 대한 Refactoring을 진행하고 있습니다.
 
 <br>
 <br>
 <br>
+
+### Team Project
+
+<br>
+
+[Things(오늘의 명언)](https://github.com/wisoft-graduate/quotation-api-server) - Complate
+* Spring, Kotlin Project
+* 세상의 여러 명언들을 보여주고, 공유, 좋아요, 북마크 등을 할 수 있는 서비스입니다.
+
+<br>
+
+[Wagora(Wisoft Chatting Platform](https://github.com/wagora-chat/wagora-chat-backend) - Stop
+* Nestjs, Typescript Project
+* 회원가입 한 사람들끼리 채팅방을 통해 채팅을 주고받을 수 있는 서비스입니다. 대학교 동아리인 Wisoft 인원들이 이용할 수 있는 채팅 서비스를 구현하는 것이 목표입니다.
+
+<br>
+<br>
+
 
 <div align="center">
 
