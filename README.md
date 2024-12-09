@@ -48,14 +48,14 @@
 
 <br>
 
-[Things(오늘의 명언)](https://github.com/wisoft-graduate/quotation-api-server) - Complate
-* Spring, Kotlin Project
+[Things(오늘의 명언)](https://iridescent-iodine-708.notion.site/Things-f54d377f861a4635b4433a67886f1765?pvs=74) - Complate
+* [Spring, Kotlin Backend](https://github.com/wisoft-graduate/quotation-api-server)
 * 세상의 여러 명언들을 보여주고, 공유, 좋아요, 북마크 등을 할 수 있는 서비스입니다.
 
 <br>
 
-[Wagora(Wisoft Chatting Platform](https://github.com/wagora-chat/wagora-chat-backend) - Stop
-* Nestjs, Typescript Project
+[Wagora(Wisoft Chatting Platform] - Stop
+* [Nestjs, Typescript Backend](https://github.com/wagora-chat/wagora-chat-backend)
 * 회원가입 한 사람들끼리 채팅방을 통해 채팅을 주고받을 수 있는 서비스입니다. 대학교 동아리인 Wisoft 인원들이 이용할 수 있는 채팅 서비스를 구현하는 것이 목표입니다.
 
 <br>
