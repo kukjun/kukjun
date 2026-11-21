@@ -1,90 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20there%20I'm%20kukjun&fontColor=00bfff&animation=twinkling&descSize=20&desc=Wellcom%20to%20kukjun%20repository)
+# 이국준 · AI/백엔드 엔지니어
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/nest.js-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E" />&nbsp
- <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />&nbsp
- <br>
- <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
- <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />&nbsp
- <br>
- <img src="https://img.shields.io/badge/postgresql-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp
- <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />&nbsp
-</div>
+모델을 바꿨을 때 무엇이 달라졌는지 확인하고, 작업이 멈췄을 때 어디부터 다시 실행할지 설계합니다.  
+소프트웨어 개발 3년 이상의 경험을 바탕으로 AI 에이전트와 운영 플랫폼을 만들어 왔습니다.
 
+## 오픈소스 기여
 
+**Milvus–Haystack** · 검색 요청마다 다른 메타데이터 조건을 적용할 수 있도록 런타임 필터를 제안하고, dense·sparse·hybrid 검색 구현과 테스트에 기여했습니다.  
+[문제 제안](https://github.com/milvus-io/milvus-haystack/issues/67) · [기여 커밋](https://github.com/milvus-io/milvus-haystack/commit/cd9fd513488ac6bf5a12f3d8f6620b4ef2608e0e) · [업스트림 병합](https://github.com/milvus-io/milvus-haystack/pull/70)
 
-## My Story
+## 실무 경험
 
-주간 일지와 특별한 경험들을 모아서 [블로그](https://velog.io/@imkkuk/posts)를 작성하고 있습니다.
+- **사각** · 사내 서버에서 동작하는 건강상담 에이전트의 모델을 교체하면서, 같은 질문으로 교체 전후 응답이 기대대로 동작하는지 비교했습니다.
+- **퀀팃** · 예약 작업 하나를 기존 시스템과 Airflow에서 병행 실행해 산출물을 비교하고, 결과를 쓰는 팀과 확인하며 단계적으로 이관했습니다.
 
-<div align="center" style="text-align:center">
+## 만들고 있는 것
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=imkkuk&tag=ESLint)](https://github.com/eungyeole/velog-readme-stats)
-  
-</div>
-
-<br>
-<br>
-
-# Project
-
-<br>
-
-### Toy Project
-
-<br>
-
-[TeamsReserve_MVP](https://github.com/kukjun/TeamsReserve_MVP_Backend) - Complate
-
-* Nestjs, Typescript Project
-* 팀별로 공간을 생성하고 예약할 수 있는 서비스를 구상했는데, 해당 서비스의 MVP로 Backend를 구현했습니다.
-
-<br>
-<br>
-<br>
-
-### Team Project
-
-<br>
-
-[Things(오늘의 명언)](https://iridescent-iodine-708.notion.site/Things-f54d377f861a4635b4433a67886f1765?pvs=74) - Complate
-* [Spring, Kotlin Backend](https://github.com/wisoft-graduate/quotation-api-server)
-* 세상의 여러 명언들을 보여주고, 공유, 좋아요, 북마크 등을 할 수 있는 서비스입니다.
-
-<br>
-
-[Wagora(Wisoft Chatting Platform] - Stop
-* [Nestjs, Typescript Backend](https://github.com/wagora-chat/wagora-chat-backend)
-* 회원가입 한 사람들끼리 채팅방을 통해 채팅을 주고받을 수 있는 서비스입니다. 대학교 동아리인 Wisoft 인원들이 이용할 수 있는 채팅 서비스를 구현하는 것이 목표입니다.
-
-<br>
-<br>
-
-
-<div align="center">
-
-[![Kukjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukjun)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kukjun&layout=compact)
-
-</div>
-
-
-
-<!--
-**kukjun/kukjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+**놀러온** · 친구들과 여행할 때 링크 하나로 모여 팀을 나누거나 제비를 뽑고, 의견이 갈리면 투표할 수 있는 웹앱입니다.  
+[실행해 보기](https://nolleoon.kukjun.com/travel) · [소스 코드](https://github.com/kukjun/nolleoon) · [MVP 검증 기록 (2026-11-17)](https://github.com/kukjun/nolleoon/blob/main/docs/acceptance.md)
